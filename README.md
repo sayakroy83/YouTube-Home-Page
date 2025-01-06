@@ -1,4 +1,4 @@
-A responsive clone of the YouTube homepage, created using HTML and CSS.
+A responsive clone of the YouTube homepage(UI), created using HTML and CSS.
 
 Features:-
 Responsive design that adapts to various screen sizes
